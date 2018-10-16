@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Emathio/Desktop/Fall 2018 courses/Algorithms/Assignment/Problem 2/searchFromFile-master/linearSearch.h
-vector
--
-string
--
-
 C:/Users/Emathio/Desktop/Fall 2018 courses/Algorithms/Assignment/Problem 2/searchFromFile-master/main.cpp
 iostream
 -
@@ -23,6 +17,4 @@ fstream
 -
 algorithm
 -
-linearSearch.h
-C:/Users/Emathio/Desktop/Fall 2018 courses/Algorithms/Assignment/Problem 2/searchFromFile-master/linearSearch.h
 

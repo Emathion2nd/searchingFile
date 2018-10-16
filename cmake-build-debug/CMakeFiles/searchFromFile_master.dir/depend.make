@@ -5,6 +5,5 @@ CMakeFiles\searchFromFile_master.dir\MergeSort.cpp.obj: ..\MergeSort.cpp
 
 CMakeFiles\searchFromFile_master.dir\linearSearch.cpp.obj: ..\linearSearch.cpp
 
-CMakeFiles\searchFromFile_master.dir\main.cpp.obj: ..\linearSearch.h
 CMakeFiles\searchFromFile_master.dir\main.cpp.obj: ..\main.cpp
 
